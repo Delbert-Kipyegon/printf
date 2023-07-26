@@ -1,5 +1,5 @@
 # Custom printf Project by Delbert Kipyegon and Silvia Irware
-
+# Printf group project.
 ## Description
 This team project is part of the first year curriculum of ALX. Our custom printf function replicates some functionalities of the C standard library printf() function.
 
