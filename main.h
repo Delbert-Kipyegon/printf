@@ -20,7 +20,7 @@
 
 /**
  * struct fmt - Struct op
- *
+ * Sly and Delbert
  * @fmt: The format.
  * @fn: The function associated.
  */
