@@ -2,6 +2,7 @@
 
 /**
  * get_precision - Calculates the precision for printing
+ * Sly and Delbert
  * @format: Formatted string in which to print the arguments
  * @i: List of arguments to be printed.
  * @list: list of arguments.
